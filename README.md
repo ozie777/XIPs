@@ -1,4 +1,4 @@
-# XMTP Improvement Proposals (XIPs)
+        # XMTP Improvement Proposals (XIPs)
 
 ![Lint](https://github.com/xmtp/XIPs/actions/workflows/lint.yml/badge.svg)
 
